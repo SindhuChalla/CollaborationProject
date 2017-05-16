@@ -32,10 +32,6 @@ Rest Client Testing
 
 Contributors
 
-All roles were played alone
 
-License
 
-MD DAWOOD Ibrahim
 
-Note: Please do see the backend code of this project at (https://github.com/dawoodchouhan/CollaborationBackend)
